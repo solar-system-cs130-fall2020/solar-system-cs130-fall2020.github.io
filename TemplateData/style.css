@@ -19,15 +19,15 @@
 
 .project-info {margin-top: 5px;}
 
-h1, h2, h3, h4, h5 {
+p, h1, h2, h3, h4, h5 {
     font-family: 'Lato';
     color: white;
 }
 
-.headerObj, main, .text-container {
-    margin-left: auto;
-    margin-right: auto;
-    align-self: center;
+.headerObj, main {
+    width: 70%;
+    margin: auto;
+    word-wrap: normal;
 }
 
 body {
