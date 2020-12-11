@@ -21,6 +21,7 @@ h1, h2, h3, h4, h5, p {
     font-family: 'Lato';
     margin-left: 400px;
     margin-right: 400px;
+    color: white;
 }
 
 .headerObj, main {
