@@ -19,10 +19,8 @@
 
 .project-info {margin-top: 5px;}
 
-h1, h2, h3, h4, h5, p {
+h1, h2, h3, h4, h5 {
     font-family: 'Lato';
-    margin-left: 400px;
-    margin-right: 400px;
     color: white;
 }
 
