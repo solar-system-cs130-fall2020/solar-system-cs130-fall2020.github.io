@@ -22,3 +22,10 @@ h1, h2, h3, h4, h5, p {
     margin-left: 400px;
     margin-right: 400px;
 }
+
+.headerObj, main {
+    margin-left: auto;
+    margin-right: auto;
+    align-self: center;
+    text-align: center;
+}
