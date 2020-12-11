@@ -24,11 +24,10 @@ h1, h2, h3, h4, h5 {
     color: white;
 }
 
-.headerObj, main {
+.headerObj, main, .text-container {
     margin-left: auto;
     margin-right: auto;
     align-self: center;
-    text-align: center;
 }
 
 body {
